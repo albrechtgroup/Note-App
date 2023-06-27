@@ -1,9 +1,8 @@
 package com.devmountain.noteApp;
 
-import org.springframework.boot.SpringApplication;
+import poorg.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-
+xx
 @SpringBootApplication
 public class NoteAppApplication {
 
