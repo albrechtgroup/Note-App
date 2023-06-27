@@ -1,7 +1,7 @@
 package com.devmountain.noteApp.repositories;
 
-import com.devmountain.noteApp.entites.Note;
-import com.devmountain.noteApp.entites.User;
+import com.devmountain.noteApp.entities.Note;
+import com.devmountain.noteApp.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

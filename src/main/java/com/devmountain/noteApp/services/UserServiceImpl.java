@@ -1,7 +1,7 @@
 package com.devmountain.noteApp.services;
 
 import com.devmountain.noteApp.dtos.UserDto;
-import com.devmountain.noteApp.entites.User;
+import com.devmountain.noteApp.entities.User;
 import com.devmountain.noteApp.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
